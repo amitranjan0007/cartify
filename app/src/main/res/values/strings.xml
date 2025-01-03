@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Cartify</string>
+    <string name="unkown_error">Unkown Error</string>
+    <string name="enter_your_otp">Enter you OTP</string>
+    <string name="invalid_otp">Invalid OTP</string>
+    <string name="valid_otp">Valid OTP</string>
+    <string name="splash_screen_title">Meet Your Love</string>
+    <string name="login_mobile">Log in with your mobile number</string>
+    <string name="enter_mobile">Enter your mobile number</string>
+    <string name="log_in">Log in</string>
+    <string name="invalid_mobile_nmbr">Enter a valid mobile number</string>
 </resources>
